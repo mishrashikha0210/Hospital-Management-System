@@ -119,3 +119,4 @@ After the process of Appointment is completed.Administrator add the invoice for 
 
 
 ![admin-doctor](<Screenshot (19).png>)"# Hospital-Management-System" 
+"# Hospital-management-system" 
