@@ -59,19 +59,28 @@ npm install
 
 
 
-## Gettint Into The project
+## Getting Into The project
+
 
 
 ## HomePage
 Hospital Management System in mern stack. This system has a ‘Home’ page from where the patient & administrator can login into their accounts by toggling the tabs accordingly...
 
 
+
+
+
 ## Contact us page
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. 
 
 
+
+
 ## Login
 To make  a Appointment of Doctor user must be login first.
+
+
+
 
 
 ##  Book his/her appointment:
@@ -79,16 +88,23 @@ After Login in successfully user book their  Appointment. The appointment form r
 
 
 
+
+
 ## Add invoice from admin pannel
 After the process of Appointment is completed.Administrator add the invoice for each Appointment.
+
+
 
 
 ## payment 
 Go to dashboard to see history of Appointment.  Now user can pay his bill through khalti payment gateway.
 
 
+
+
 ## Admin module
 This module is the heart of our project where an admin can see the list of all patients. Admin also can add the invoice for each user..who make a appointment of doctor. Admin can also Add docotor ,Delete Doctor.
+
 
 
    
